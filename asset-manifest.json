@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/businessWebsiteReact/static/css/main.1db27237.css",
+    "main.js": "/businessWebsiteReact/static/js/main.6a4f7b0d.js",
+    "static/media/s1.jpg": "/businessWebsiteReact/static/media/s1.2c693e3114d4b1f6265d.jpg",
+    "static/media/s5.jpg": "/businessWebsiteReact/static/media/s5.ef3981e70fed3f81f0e8.jpg",
+    "static/media/s6.jpg": "/businessWebsiteReact/static/media/s6.a1cf45330e8ab54e6d56.jpg",
+    "static/media/s2.jpg": "/businessWebsiteReact/static/media/s2.9bc10bb907f9cc36cd89.jpg",
+    "static/media/s3.jpg": "/businessWebsiteReact/static/media/s3.d2bfd2d82d90b028541c.jpg",
+    "static/media/img1.png": "/businessWebsiteReact/static/media/img1.3f5a2582c5de60e9dd9a.png",
+    "static/media/img2.png": "/businessWebsiteReact/static/media/img2.769d9dca9fe903eb9354.png",
+    "static/media/s4.jpg": "/businessWebsiteReact/static/media/s4.ef3338e2c14af34bf7f3.jpg",
+    "index.html": "/businessWebsiteReact/index.html",
+    "main.1db27237.css.map": "/businessWebsiteReact/static/css/main.1db27237.css.map",
+    "main.6a4f7b0d.js.map": "/businessWebsiteReact/static/js/main.6a4f7b0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db27237.css",
+    "static/js/main.6a4f7b0d.js"
+  ]
+}
